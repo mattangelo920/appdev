@@ -1,2 +1,7 @@
 # appdev
-my first repository
+
+> my favorite movie
+* avengers
+* starwars
+* jurassic world
+
